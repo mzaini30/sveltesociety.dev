@@ -767,5 +767,14 @@
     "tags": [],
     "title": "rossyman/svelte-add-jest",
     "url": "https://github.com/rossyman/svelte-add-jest"
+  },
+  {
+    "addedOn": "2021-07-21T11:39:29Z",
+    "category": "SvelteKit",
+    "description": "Personal blog, created with SvelteKit + Windi for frontend, Excalibur for backend",
+    "stars": 6,
+    "tags": [],
+    "title": "mzaini30/zenia",
+    "url": "https://github.com/mzaini30/zenia"
   }
 ]
